@@ -55,7 +55,7 @@ body::after {
 }
 
 .container .calculador .value {
-    grid-column: span;
+    grid-column: span 4;
     height: 140px;
     width: 300px;
     text-align: right;
@@ -65,8 +65,8 @@ body::after {
     font-size: 30px;
     background: transparent;
     color: #FFF;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-    border-right: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
 }
 
 .container .calculador span {
