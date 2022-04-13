@@ -2,6 +2,7 @@
 
 ## demo
 ![Demo](./assets/calculator-glassmorphism.gif)
+<br>
 
 ## Construido com Javascript, HTML e CSS
 
